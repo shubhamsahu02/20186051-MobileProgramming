@@ -1,0 +1,79 @@
+{
+	"CompanyCollection":[ {"CompanyName":"Amazon",
+							"Website" : "www.amazon.jobs",
+							"Headquarters" : "Seattle, WA (US)",
+							"Size" : "10000+ employees",
+							"Founded" : "1994",
+							"Type" : "Company - Public (AMZN)"
+							,"Industry" : "Internet"
+							,"Revenue" : "₹500+ billion (INR) per year"
+							,"Location" : "Hyderabad, Bangalore, Chennai"
+							,"Benefits" : "Health, Employee Assistance Program, Timeoff, Stock"},
+							{
+
+								"CompanyName":"GE India",  
+								"Website": "www.ge.com",
+								"Headquarters" : "Boston, MA (US)",
+								"Size" : "10000+ employees",
+								"Founded" : "1892",
+								"Type" : "Company - Public (GE)",
+								"Industry" : "Enterprise Software & Network Solutions",
+								"Revenue" : "₹500+ billion (INR) per year",
+								"Location":"Hyderabad",
+								"Benefits" : "Vacation and Paid time off, Maternity & Paternity leave, Work from home."},
+							{
+
+							"CompanyName ":"Paytm", 
+
+							"Website": "www.paytm.com",
+							"Headquarters" : "Noida",
+							"Size" : "1001 to 5000 employees",
+							"Founded ": "2010",
+							"Type" : "Company - Private",
+							"Industry" : "Internet",
+							
+							"Revenue" : "₹500+ billion (INR) per year",
+							"Location":"Hyderabad",
+								
+
+							"Benefits" : "Vacation and Paid time off, Healthcare and insurance, Sick leave" },
+
+
+							{
+
+
+							    "CompanyName"	:"Johnson Controls",
+
+								"Website" : "www.johnsoncontrols.com",
+								"Headquarters" : "Cork(Ireland)",
+								"Size" : "10000+ employees",
+								"Founded" : "1885",
+								"Type" : "Company - Public (JCI)",
+								"Industry" : "Industrial Manufacturing",
+								"Revenue" : "₹500+ billion (INR) per year",
+								"Location":"Hyderabad",
+							
+								"Benefits" : "401kPlan, Vacation and Paid time off,  Health insurance."
+
+
+							},
+							{
+
+
+								"CompanyName":"American Express",
+								"Website" : "www.americanexpress.com",
+								"Headquarters" : "New York, NY (US)",
+								"Size" : "10000+ employees",
+								"Founded" : "1850",
+								"Type" : "Company - Public (AXP)",
+								"Industry" : "Financial Transaction Processing",
+								"Revenue" : "₹500+ billion (INR) per year",
+								"Location":"Hyderabad",
+								"Benefits" : "401kPlan, Vacation and Paid time off,  Health insurance."
+
+
+							}
+ ]
+}
+
+
